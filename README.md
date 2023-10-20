@@ -21,7 +21,7 @@ yarn
 
 ## Provided Scripts
 
-Ant Design Pro 提供一些有用的脚本来帮助您快速启动和构建Web项目、代码风格检查和测试。
+Ant Design Pro 提供一些有用的脚本来帮助您快速启动和构建Web项目。
 
 ### Start project
 
