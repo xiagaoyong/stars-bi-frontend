@@ -1,4 +1,7 @@
-# Ant Design Pro
+# 
+是[stars-bi-backend](https://github.com/xiagaoyong/stars-bi-backend) 前端
+
+## 星智能 BI
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
